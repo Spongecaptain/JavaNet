@@ -8,7 +8,7 @@ Java  网络编程大致可以分为三类：
 
 其中，Netty 几乎可以与 Java NIO 框架等价，不过在本节我并不打算对基于 Netty 的 NIO 编程模型进行过多的展开，主要强调前面两种。
 
-GitHub 项目地址：
+GitHub 项目地址：https://github.com/Spongecaptain/JavaNet
 
 # 1. JDK OIO 编程模型
 
